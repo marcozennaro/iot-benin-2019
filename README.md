@@ -8,6 +8,7 @@ Workshop organized by ICTP's [T/ICT4D Lab](http://wireless.ictp.it) at [Institut
 **9h-10h30**
 
 Opening
+
 Introduction to IoT (Marco Zennaro, ICTP)
 
 **10h45 to 12h15**
