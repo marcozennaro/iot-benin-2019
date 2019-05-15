@@ -17,7 +17,9 @@ Python 1
 **13h15 to 15h15**
 
 Intro to MicroPython (Marco Zennaro, ICTP)
+
 Pycom intro (Marco Zennaro, ICTP)
+
 Atom and alternatives (Marco Zennaro, ICTP)
 
 **15h15 to 16h45**
@@ -38,6 +40,7 @@ Python 2
 **13h15 to 15h15**
 
 Intro to MQTT (Marco Zennaro, ICTP)
+
 Lab: MQTT with mobile phone + laptop
 
 **15h15 to 16h45**
@@ -69,6 +72,7 @@ Python 4
 **9h-10h30**
 
 InfluxDB, Telegraf and Graphana (Marco Zennaro, ICTP)
+
 RPi Data Center  (Marco Zennaro, ICTP)
 
 **10h45 to 12h15**
