@@ -8,7 +8,6 @@ Workshop organized by ICTP's [T/ICT4D Lab](http://wireless.ictp.it) at [Institut
 **9h-10h30**
 
 Opening
-
 Introduction to IoT (Marco Zennaro, ICTP)
 
 **10h45 to 12h15**
@@ -18,9 +17,7 @@ Python 1
 **13h15 to 15h15**
 
 Intro to MicroPython (Marco Zennaro, ICTP)
-
 Pycom intro (Marco Zennaro, ICTP)
-
 Atom and alternatives (Marco Zennaro, ICTP)
 
 **15h15 to 16h45**
@@ -28,8 +25,7 @@ Atom and alternatives (Marco Zennaro, ICTP)
 Lab: Getting started with Pycom devices, Blink, Sensors (acceleration, light, temperature)
 
 
-
-###**Tuesday (May 21st)** 
+### **Tuesday (May 21st)** 
 
 **9h-10h30**
 
@@ -42,7 +38,6 @@ Python 2
 **13h15 to 15h15**
 
 Intro to MQTT (Marco Zennaro, ICTP)
-
 Lab: MQTT with mobile phone + laptop
 
 **15h15 to 16h45**
@@ -50,8 +45,7 @@ Lab: MQTT with mobile phone + laptop
 Lab:  WiFi: connect to WiFi network, Send MQTT via WiFi, Subscribe via MQTT
 
 
-
-###**Wednesday (May 22nd)** 
+### **Wednesday (May 22nd)** 
 
 **9h-10h30**
 
@@ -70,13 +64,11 @@ LAB: Installing a gateway, LoRaWAN example: send temperature via TTN, Ubidots TT
 Python 4
 
 
-
-###**Thursday (May 23rd)** 
+### **Thursday (May 23rd)** 
 
 **9h-10h30**
 
 InfluxDB, Telegraf and Graphana (Marco Zennaro, ICTP)
-
 RPi Data Center  (Marco Zennaro, ICTP)
 
 **10h45 to 12h15**
@@ -92,8 +84,7 @@ LAB: Installing RPiDC, visualizing data in Python
 Python 6
 
 
-
-###**Friday (May 24th)** 
+### **Friday (May 24th)** 
 
 **9h-10h30**
 
